@@ -1,6 +1,7 @@
 # Projects by Nik Kovitz
-Main page to link to other projects
-[Under Construction]
+Links to all my public non-NDA projects
+
+## Under Construction
 
 Angel Droid:
 https://store.steampowered.com/app/2172150/ANGEL_DROID/
