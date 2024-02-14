@@ -4,7 +4,7 @@ Most of my professional work is proprietary/unsharable, so I took it upon myself
 This site is the homepage for the URLs to all my public projects. Enjoy!
 
 ### My Games Tracker - A lightweight Angular project
-I focused on honing my UX/UI skills to display data graphs in an engaging, sleek interface
+I focused on honing my UX/UI skills to display data graphs with an engaging, sleek interface. Check it out!
 
 https://main--my-games-tracker.netlify.app/
 
