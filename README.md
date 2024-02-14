@@ -1,5 +1,7 @@
 # Projects by Nik Kovitz
-Links to all my public projects
+Most of my professional work is proprietary/unsharable, so I took it upon myself to do a few side projects to stretch my skills.
+
+This site is the homepage for the URLs to all my public projects. Enjoy!
 
 ### My Games Tracker - A lightweight Angular project
 I focused on honing my UX/UI skills to display data graphs in an engaging, sleek interface
