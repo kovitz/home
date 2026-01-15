@@ -3,6 +3,13 @@ Most of my professional work is proprietary/unsharable, so I took it upon myself
 
 This site is the homepage for the URLs to all my public projects. Enjoy!
 
+### Article Parse-And-Read - A very lightweight Javascript/Node project
+I wanted to build a tool that allows me to read tech/gaming articles without all the clutter of ads and pop-ups.
+
+Deployed Website: https://article-parse-and-read.netlify.app/
+
+Source Code: https://github.com/kovitz/article-parse-and-read
+
 ### My Games Tracker - A lightweight Angular project
 I focused on honing my UX/UI skills to display data graphs with an engaging, sleek interface. Check it out!
 
